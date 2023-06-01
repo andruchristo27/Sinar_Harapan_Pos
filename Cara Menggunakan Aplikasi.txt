@@ -1,0 +1,5 @@
+1. Jalankan XAMPP atau aplikasi semacamnya
+2. Buat database dengan nama "db_sinarharapanpos"
+3. import file db_sinarharapanpos.sql pada db_sinarharapanpos
+
+NB : Jalankan xampp atau aplikasi semacamnya ketika membuka aplikasi Sinar Harapan POS ini.

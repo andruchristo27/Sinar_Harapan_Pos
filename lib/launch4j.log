@@ -1,0 +1,13 @@
+
+
+Version:	3.14
+CmdLine:	C:\Users\Satria Yuda\Documents\NetBeansProjects\sinarharapanPOS\dist\Sinar Harapan POS.exe --l4j-debug
+WOW64:		yes
+Java min ver:	1.008.000_111
+Java max ver:	1.016.000
+Bundled JRE(s):	C:\Program Files\Java\jre1.8.0_111
+Check launcher:	C:\Program Files\Java\jre1.8.0_111\bin\javaw.exe (OK)
+Launcher:	C:\Program Files\Java\jre1.8.0_111\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Satria Yuda\Documents\NetBeansProjects\sinarharapanPOS\dist\Sinar Harapan POS.exe"
+Args length:	97/32768 chars
+Exit code:	0
